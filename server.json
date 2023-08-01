@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-07-26T01:40:42.216Z"
+    },
+    {
+      "id": 4,
+      "description": "Desenvolvimento de site 2",
+      "type": "income",
+      "category": "Venda",
+      "price": 3500,
+      "createdAt": "2023-07-26T01:40:42.216Z"
+    },
+    {
+      "description": "Camisa Flamengo",
+      "category": "Roupas",
+      "price": 349,
+      "type": "outcome",
+      "createdAt": "2023-08-01T00:26:09.562Z",
+      "id": 5
+    },
+    {
+      "description": "Sistema de admin de loja de roupas",
+      "category": "Desenvolvimento",
+      "price": 4500,
+      "type": "income",
+      "createdAt": "2023-08-01T00:42:39.804Z",
+      "id": 6
     }
   ]
 }
